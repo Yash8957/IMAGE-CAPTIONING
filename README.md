@@ -1,18 +1,10 @@
 # IMAGE-CAPTIONING
 # **Image Captioning Using Attention Mechanism**
 
-## **MENTORS**
+## **BY**
 
-- Chandan Kumar
-- Rohan Rao H J
-
-## **MENTEES**
-
-1. Aakaash G.Acharya
-2. Apurva S
-3. Deepanshu Gupta
-4. Inbasekaran.P
-5. K A Gaganashree
+- Yash Mishra
+-Chandan Kumar
 
 ### **ABSTRACT**
 
